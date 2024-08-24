@@ -13,7 +13,7 @@ I'm just a guy who loves coding, solving puzzles, and making the internet a more
 
 - 🔭 I’m currently exploring the endless possibilities of **JavaScript**.
 - 🌱 Learning new things every day, one line of code at a time.
-- 🤹‍♂️ I believe in work-life balance, so I mix coding with a healthy dose of Netflix and snacks.
+- 🤹‍♂️ I believe in work-life balance, so I mix coding with a healthy dose of Spotify.
 - 🎮 Gamer by night, coder by day. Let’s just say, **multitasking** is my middle name.
 
 ---
