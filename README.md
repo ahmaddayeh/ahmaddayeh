@@ -1,5 +1,3 @@
-Got it! Here’s a fun and engaging README without mentioning your projects:
-
 ---
 
 # 👋 Hey there, I'm Ahmad Dayeh!
