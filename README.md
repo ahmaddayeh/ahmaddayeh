@@ -1,8 +1,7 @@
-:)
 
 ---
 
-# 👋 Hey there, I'm Ahmad Dayeh!
+# 👋 Hey there, I'm Ahmad!
 
 **`Code Ninja | Coffee Enthusiast `**
 
@@ -29,8 +28,6 @@ I'm just a guy who loves coding, solving puzzles, and making the internet a more
 ---
 
 ## 📊 GitHub Stats
-
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmaddayeh&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddayeh&layout=compact&theme=radical)
 
