@@ -3,8 +3,6 @@
 
 # 👋 Hey there, I'm Ahmad!
 
-**`Code Ninja | Coffee Enthusiast `**
-
 ---
 
 ## 🌟 About Me
