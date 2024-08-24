@@ -1,3 +1,5 @@
+:)
+
 ---
 
 # 👋 Hey there, I'm Ahmad Dayeh!
