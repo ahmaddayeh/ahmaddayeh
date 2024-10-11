@@ -1,7 +1,7 @@
 
 ---
 
-# 👋 Hey there, I'm Ahmad!
+![Me]([https://example.com/image.png](https://cdn.discordapp.com/attachments/866015302613467138/1294260345262833715/2024-10-11-Ahmad-.gif?ex=670a5d60&is=67090be0&hm=a265b370a1ca34c747031cac5bbabfe69ae7a105295d1aeeac6a074917f19572&))
 
 ---
 
