@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">I'm just a guy who loves coding, solving puzzles, and making the internet a more fun place to be. When I’m not buried in lines of code, you’ll probably find me sipping on some strong coffee or diving deep into the latest memes.</h3>
 
+- 💬 Ask me about **planes**
+
+- 📫 How to reach me **ahmad.f.dayeh@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmad-dayeh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmad-dayeh/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discordapp.com/users/475743493839519773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/475743493839519773" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
